@@ -1,4 +1,5 @@
 Conversion functions needed:
 
 --Dollars to cents
---Gallons to cups
+--Gallons to liters
+--baboo to bibiid
